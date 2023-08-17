@@ -25,7 +25,7 @@ from lmfit import Parameters
 
 import pyqtgraph as pg
 
-from PyQt5.QtCore import pyqtSignal, QThread, QObject
+# from PyQt5.QtCore import pyqtSignal, QThread, QObject
 
 path = os.path.dirname(os.path.abspath('__file__'))
 
